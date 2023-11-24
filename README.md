@@ -8,11 +8,44 @@
 
 ### My SkiLL(Promming languages,FrameWork and Tools)
 ---
-[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![Djangoバッジ](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat-square&logoColor=white)](https://www.djangoproject.com/)
-[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### Languages
+
+[![PHP](https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)](https://www.python.org/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)](https://www.w3.org/TR/css3-roadmap/)
+[![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)](https://www.w3schools.com/html/)
+
+### Library・FrameWork
+
+[![Django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat)](https://www.djangoproject.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat)](https://getbootstrap.jp/)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat)](https://jquery.com/)
+
+### OS
+
+[![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)](https://ubuntu.com/)
+[![MacOS](https://img.shields.io/badge/MacOS--9cf.svg?logo=Apple&style=flat)](https://www.apple.com/jp/macos/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)](https://www.microsoft.com/windows/)
+
+### Middleware
+
+[![Apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)](https://httpd.apache.org/)
+[![Nginx](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat)](https://nginx.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-lightgrey.svg?logo=mysql&style=flat)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&logo=mariadb&style=flat)](https://mariadb.org/)
+
+
+### Editor・IDE
+
+[![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)](https://www.vim.org/)
+
+### Cloud・Other
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)](https://github.com/)
+[![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat)](https://www.docker.com/)
 
 ### Status
 ---
