@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/yutouchida/yutouchida/main/profile-summary-card-output/kacho_ga/3-stats.svg)
+```
+
+    
